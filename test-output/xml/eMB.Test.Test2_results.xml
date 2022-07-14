@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.933">
+  <properties />
+  
+  
+            <testcase name="Differentclassmethod" time="4.933" classname="eMB.Test.Test2" />
+      
+</testsuite>
